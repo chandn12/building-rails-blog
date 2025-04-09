@@ -82,7 +82,7 @@ GEM
     bindex (0.8.1)
     bootsnap (1.18.4)
       msgpack (~> 1.2)
-    brakeman (7.0.0)
+    brakeman (7.0.2)
       racc
     builder (3.3.0)
     capybara (3.40.0)
@@ -350,7 +350,6 @@ DEPENDENCIES
   sqlite3 (>= 1.4)
   stimulus-rails
   tailwindcss-rails (~> 4.2)
-  tailwindcss-ruby (~> 4.1)
   turbo-rails
   tzinfo-data
   web-console
